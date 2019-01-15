@@ -1,6 +1,6 @@
-# scrm-wx
+# vue-app-dome
 
-> A Vue.js project
+> 由vue-cli生成，UI使用vux，用于移动端混合开发的一个dome
 
 ## Build Setup
 
